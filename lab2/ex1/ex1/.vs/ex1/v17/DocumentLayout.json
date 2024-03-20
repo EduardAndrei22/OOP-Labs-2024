@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0575BCE1-DA5B-4356-BB39-A6DA45D21797}|ex1.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0575BCE1-DA5B-4356-BB39-A6DA45D21797}|ex1.vcxproj|solutionrelative:NumberList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NumberList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0575BCE1-DA5B-4356-BB39-A6DA45D21797}|ex1.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0575BCE1-DA5B-4356-BB39-A6DA45D21797}|ex1.vcxproj|solutionrelative:NumberList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0575BCE1-DA5B-4356-BB39-A6DA45D21797}|ex1.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0575BCE1-DA5B-4356-BB39-A6DA45D21797}|ex1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NumberList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NumberList.cpp",
               "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.cpp",
               "RelativeDocumentMoniker": "NumberList.cpp",
               "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.cpp",
               "RelativeToolTip": "NumberList.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAACAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-06T14:10:51.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NumberList.h",
               "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.h",
               "RelativeDocumentMoniker": "NumberList.h",
               "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\NumberList.h",
               "RelativeToolTip": "NumberList.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-06T14:10:33.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab2\\ex1\\ex1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-06T14:09:28.566Z"
+              "WhenOpened": "2024-03-06T14:09:28.566Z",
+              "EditorCaption": ""
             }
           ]
         }
