@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Number.cpp
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab5\lab5\Number.cpp(155,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  lab5.vcxproj -> C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab5\lab5\x64\Debug\lab5.exe
