@@ -1,0 +1,25 @@
+﻿  Bmw.cpp
+  Circuit.cpp
+  Fiat.cpp
+  main.cpp
+  RangeRover.cpp
+  Seat.cpp
+  Volvo.cpp
+  Generating Code...
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Volvo.cpp(22,1): warning C4715: 'Volvo::set_fuel_cap': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Volvo.cpp(57,1): warning C4715: 'Volvo::set_speed': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Volvo.cpp(38,1): warning C4715: 'Volvo::set_fuel_cons': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Seat.cpp(37,1): warning C4715: 'Seat::set_fuel_cons': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Seat.cpp(21,1): warning C4715: 'Seat::set_fuel_cap': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Seat.cpp(56,1): warning C4715: 'Seat::set_speed': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\RangeRover.cpp(21,1): warning C4715: 'RangeRover::set_fuel_cap': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\RangeRover.cpp(56,1): warning C4715: 'RangeRover::set_speed': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\RangeRover.cpp(37,1): warning C4715: 'RangeRover::set_fuel_cons': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Fiat.cpp(56,1): warning C4715: 'Fiat::set_speed': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Fiat.cpp(21,1): warning C4715: 'Fiat::set_fuel_cap': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Fiat.cpp(37,1): warning C4715: 'Fiat::set_fuel_cons': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Circuit.cpp(29,1): warning C4715: 'Circuit::SetWeather': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Bmw.cpp(21,1): warning C4715: 'BMW::set_fuel_cap': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Bmw.cpp(37,1): warning C4715: 'BMW::set_fuel_cons': not all control paths return a value
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\Bmw.cpp(56,1): warning C4715: 'BMW::set_speed': not all control paths return a value
+  lab6.vcxproj -> C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab6\lab6\x64\Debug\lab6.exe

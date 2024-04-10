@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|solutionrelative:Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|solutionrelative:Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|solutionrelative:Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CE2FDC2-A47A-4CE8-88C5-E05C3B907F81}|lab5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-03T11:23:08.348Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "Number.cpp",
               "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\Number.cpp",
               "RelativeToolTip": "Number.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-03T11:22:59.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Number.h",
               "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\Number.h",
               "RelativeDocumentMoniker": "Number.h",
               "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab5\\lab5\\Number.h",
               "RelativeToolTip": "Number.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-03T11:22:49.26Z",
               "EditorCaption": ""

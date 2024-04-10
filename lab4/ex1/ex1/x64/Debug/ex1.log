@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Sort.cpp
+  Generating Code...
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab4\ex1\Sort.cpp(37,6): warning C4101: 'aux': unreferenced local variable
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab4\ex1\Sort.cpp(61,1): error C1075: '{': no matching token found
