@@ -1,0 +1,8 @@
+﻿  tree.cpp
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\Project1\tree.h(35,30): error C2760: syntax error: ';' was unexpected here; expected 'expression'
+  (compiling source file 'tree.cpp')
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\Project1\tree.h(35,30):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\Project1\tree.h(5,7):
+  	while compiling class template 'node'
+  
