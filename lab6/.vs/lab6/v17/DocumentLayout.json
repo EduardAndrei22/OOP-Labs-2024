@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Seat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Seat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Seat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\RangeRover.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\RangeRover.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\RangeRover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\RangeRover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Fiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Fiat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Fiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Fiat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Bmw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Bmw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Bmw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab6\\Bmw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seat.h",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Seat.h",
+              "RelativeDocumentMoniker": "lab6\\Seat.h",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Seat.h",
+              "RelativeToolTip": "lab6\\Seat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T13:10:37.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seat.cpp",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Seat.cpp",
+              "RelativeDocumentMoniker": "lab6\\Seat.cpp",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Seat.cpp",
+              "RelativeToolTip": "lab6\\Seat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:10:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RangeRover.h",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\RangeRover.h",
+              "RelativeDocumentMoniker": "lab6\\RangeRover.h",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\RangeRover.h",
+              "RelativeToolTip": "lab6\\RangeRover.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T13:10:35.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RangeRover.cpp",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\RangeRover.cpp",
+              "RelativeDocumentMoniker": "lab6\\RangeRover.cpp",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\RangeRover.cpp",
+              "RelativeToolTip": "lab6\\RangeRover.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:10:35.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\main.cpp",
+              "RelativeDocumentMoniker": "lab6\\main.cpp",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\main.cpp",
+              "RelativeToolTip": "lab6\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:10:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fiat.h",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Fiat.h",
+              "RelativeDocumentMoniker": "lab6\\Fiat.h",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Fiat.h",
+              "RelativeToolTip": "lab6\\Fiat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T13:10:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fiat.cpp",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Fiat.cpp",
+              "RelativeDocumentMoniker": "lab6\\Fiat.cpp",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Fiat.cpp",
+              "RelativeToolTip": "lab6\\Fiat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:10:31.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circuit.h",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Circuit.h",
+              "RelativeDocumentMoniker": "lab6\\Circuit.h",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Circuit.h",
+              "RelativeToolTip": "lab6\\Circuit.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T13:10:30.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circuit.cpp",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Circuit.cpp",
+              "RelativeDocumentMoniker": "lab6\\Circuit.cpp",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Circuit.cpp",
+              "RelativeToolTip": "lab6\\Circuit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:10:30.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Car.h",
+              "RelativeDocumentMoniker": "lab6\\Car.h",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Car.h",
+              "RelativeToolTip": "lab6\\Car.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T13:10:29.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bmw.h",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Bmw.h",
+              "RelativeDocumentMoniker": "lab6\\Bmw.h",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Bmw.h",
+              "RelativeToolTip": "lab6\\Bmw.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-24T13:10:28.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bmw.cpp",
+              "DocumentMoniker": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Bmw.cpp",
+              "RelativeDocumentMoniker": "lab6\\Bmw.cpp",
+              "ToolTip": "C:\\Users\\Edi Andrei\\Desktop\\facultate\\poo\\OOP-Labs-2024\\lab6\\lab6\\Bmw.cpp",
+              "RelativeToolTip": "lab6\\Bmw.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:10:27.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

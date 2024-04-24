@@ -1,0 +1,134 @@
+﻿  main.cpp
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661: 'Tree<int>::Tree(void)': no suitable definition provided for explicit template instantiation request
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(29,5):
+  see declaration of 'Tree<int>::Tree'
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661: 'Tree<int>::~Tree(void)': no suitable definition provided for explicit template instantiation request
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(30,6):
+  see declaration of 'Tree<int>::~Tree'
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661: 'TreeNode<T> *Tree<T>::add_node(TreeNode<T> *,T)': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(31,18):
+  see declaration of 'Tree<int>::add_node'
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661: 'TreeNode<T> *Tree<T>::get_node(TreeNode<T> *) const': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(32,18):
+  see declaration of 'Tree<int>::get_node'
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661: 'int Tree<int>::count(TreeNode<T> *) const': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(3,25): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(33,9):
+  see declaration of 'Tree<int>::count'
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'TreeNode<T>::TreeNode(T,TreeNode<T> *)': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(13,5):
+  see declaration of 'TreeNode<T>::TreeNode'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'TreeNode<T> *TreeNode<T>::add_child(T)': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(14,18):
+  see declaration of 'TreeNode<T>::add_child'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'TreeNode<T> *TreeNode<T>::get_parent(void) const': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(15,18):
+  see declaration of 'TreeNode<T>::get_parent'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'void TreeNode<T>::delete_node(void)': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(16,10):
+  see declaration of 'TreeNode<T>::delete_node'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'TreeNode<T> *TreeNode<T>::find(const T &)': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(17,18):
+  see declaration of 'TreeNode<T>::find'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'void TreeNode<T>::insert(T,int)': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(18,10):
+  see declaration of 'TreeNode<T>::insert'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'void TreeNode<T>::sort(bool (__cdecl *)(T &,T &))': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(19,10):
+  see declaration of 'TreeNode<T>::sort'
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661: 'int TreeNode<T>::count(void) const': no suitable definition provided for explicit template instantiation request
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         with
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         [
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:             T=int
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\main.cpp(4,29): warning C4661:         ]
+  C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\tree.h(20,9):
+  see declaration of 'TreeNode<T>::count'
+          with
+          [
+              T=int
+          ]
+  
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl Tree<int>::Tree<int>(void)" (??0?$Tree@H@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl Tree<int>::~Tree<int>(void)" (??1?$Tree@H@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: class TreeNode<int> * __cdecl Tree<int>::add_node(class TreeNode<int> *,int)" (?add_node@?$Tree@H@@QEAAPEAV?$TreeNode@H@@PEAV2@H@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: int __cdecl Tree<int>::count(class TreeNode<int> *)const " (?count@?$Tree@H@@QEBAHPEAV?$TreeNode@H@@@Z) referenced in function main
+C:\Users\Edi Andrei\Desktop\facultate\poo\OOP-Labs-2024\lab7\lab7\x64\Debug\lab7.exe : fatal error LNK1120: 4 unresolved externals
