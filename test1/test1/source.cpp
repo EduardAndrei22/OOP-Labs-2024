@@ -4,16 +4,16 @@ using namespace std;
 
 int main()
 {
-    CircularString c('*', 5);
-    cout << (const char*)c << endl;
+    CircularString c('/0', 5);
+    cout << (const char)c << endl;
     ((c += 'a') += 'b') += 'c';
-    cout << (const char*)c << endl;
+    cout << (const char)c << endl;
     c++;
-    cout << (const char*)c << endl;
+    cout << (const char)c << endl;
     c++; c++; c++;
-    cout << (const char*)c << endl;
+    cout << (const char)c << endl;
     --c;
-    cout << (const char*)c << endl;
+    cout << (const char)c << endl;
     int len = (int)c;
     for (int tr = 0; tr < len; tr++) { cout << c[tr] << ","; }
     cout << endl << "Len = " << len << endl;
